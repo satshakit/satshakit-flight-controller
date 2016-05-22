@@ -27,9 +27,9 @@ You can use satshakit flight controller in **DIY drones** or, due the dimensions
 Getting started
 --
 
-After you finish to solder a satshakit flight controller board, you need to **set its fuses and to program it with MultiWii**. To set the fuses you can easily upload the Arduino Bootloader using Arduino IDE and an **Arduino as ISP**. To do so first upload the Arduino as ISP sketch into an Arduino, and then connect the satshakit flight controller as following:
+After you finish to solder a satshakit flight controller board, you need to **set its fuses and to program it with MultiWii**. To set the fuses you can easily upload the Arduino Bootloader using Arduino IDE and an **Arduino as ISP**. To do so first upload the Arduino as ISP sketch into an Arduino, and then connect the satshakit flight controller as following (this is the same for the version with the power board and without):
 
-<img src="media/readme/satshakit_versions.jpg" width="70%">
+<img src="media/readme/satshakit_fc_programming.png" width="70%">
 
 Once everything is connected, follow these steps to upload Arduino bootloader:
 
@@ -71,7 +71,7 @@ Downloads
 Media
 --
 
-soldered and installed satshakit flight controller:
+board, soldered and installed satshakit flight controller:
 
 <img src="media/readme/satshakit_fc_power_0.jpeg" width="70%">
 <img src="media/readme/satshakit_fc_power_1.jpeg" width="70%">
