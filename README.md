@@ -7,12 +7,12 @@
 
 satshakit flight controller
 --
-satshakit flight controller is an **open source, MultiWii compatible, flight controller board**, that is possibile to **make in a FabLab**. The design derives from both a **satshakit board** and my dual processor flight controller of my **[FabAcademy2015 final project](http://fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html)**.
+satshakit flight controller is an **open source, MultiWii compatible, flight controller board**, that is possibile to **make in a FabLab**. The design derives from both a **satshakit board** and dual processor flight controller of my **[FabAcademy2015 final project](http://fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html)**.
 
 Features
 --
 
-satshakit flight controller has been designed aiming to be **easy to make, program and use**, so be possible to **replicate and customize it** in any other Fab Lab. It has the following features:
+satshakit flight controller has been designed aiming to be **easy to make, program and use**, so to be possible to **replicate and customize it** in any other Fab Lab. It has the following features:
 
 - support for [any drone configuration](http://www.multiwii.com/connecting-elements) up to **8 motors**
 - support for up to **6 channels** receivers 
@@ -20,7 +20,7 @@ satshakit flight controller has been designed aiming to be **easy to make, progr
 - **16mhz crystal** for precise clock, reliability and compatibility
 - size of **48x48mmm**
 - embedded **power board** (if needed)
-- possibility connect and use **any IMU working at 5V**
+- possibility to connect and use **any IMU working at 5V**
 
 You can use satshakit flight controller in **DIY drones** or, due the dimensions are the same or less of most of the MultiWii commercial flight controller boards (50x50mmm), as a **replacement flight controller for commercial drones**. For drones up to 4 motors and 15A ESCs, is possible to use the **embedded power board**, otherwise is recommended to use an external power board, and to make the satshakit flight controller without the power board embedded.
 
