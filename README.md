@@ -1,13 +1,13 @@
 <h1 style="font-family: courier;" align="center"> satshakit flight controller</h1>
 <p align="center">
-<img src="media/readme/satshakit_fc_power_conneted.jpg" width="70%">
+<img src="media/readme/satshakit_fc_power_connected.jpeg" width="70%">
 <div align="center"><i>An open source & easy to make flight controller board.</i></div>
 </p>  
 
 
 satshakit flight controller
 --
-satshakit flight controller is an **open source, MultiWii compatible, flight controller board**, that is possibile to **make in a FabLab**. The design derives from both a [satshakit board and] my dual processor flight controller from my [FabAcademy2015 final project](http://fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html)**.
+satshakit flight controller is an **open source, MultiWii compatible, flight controller board**, that is possibile to **make in a FabLab**. The design derives from both a **satshakit board** and my dual processor flight controller from my **[FabAcademy2015 final project](http://fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html)**.
 
 Features
 --
@@ -22,12 +22,12 @@ satshakit flight controller has been designed aiming to be **easy to make, progr
 - embedded **power board** (if needed)
 - possibility connect and use **any IMU working at 5V**
 
-You can use satshakit flight controller in completely DIY drones or, as the dimensions are the same or less of most of the MultiWii commercial flight controller boards (50x50mmm), as a replacement flight controller for commercial drones. For drones up to 4 motors and 15A ESCs, is possible to use the embedded power board, otherwise is recommended to use an external power board, and to make the satshakit flight controller without the power board embedded.
+You can use satshakit flight controller in completely **DIY drones** or, as the dimensions are the same or less of most of the MultiWii commercial flight controller boards (50x50mmm), as a **replacement flight controller for commercial drones**. For drones up to 4 motors and 15A ESCs, is possible to use the **embedded power board**, otherwise is recommended to use an external power board, and to make the satshakit flight controller without the power board embedded.
 
 Getting started
 --
 
-After you finish to solder a satshakit flight controller board, you need to **set its fuses and to program it with MultiWii**. To set the fuses you can easily upload the Arduino Bootloader using Arduino IDE and an Arduino as ISP. To do so first upload the Arduino as ISP sketch into an Arduino, and then connect the satshakit flight controller as following:
+After you finish to solder a satshakit flight controller board, you need to **set its fuses and to program it with MultiWii**. To set the fuses you can easily upload the Arduino Bootloader using Arduino IDE and an **Arduino as ISP**. To do so first upload the Arduino as ISP sketch into an Arduino, and then connect the satshakit flight controller as following:
 
 <img src="media/readme/satshakit_versions.jpg" width="70%">
 
@@ -40,15 +40,15 @@ Once everything is connected, follow these steps to upload Arduino bootloader:
 
 Now you can use again the same connections, Arduino as ISP and Arduino IDE  to upload your favourite MultiWii version, this time using **File->Upload using a programmer**.
 
-To connect all the elements fo your drone, you can follow the satshakit flight controller pinout.
+To connect all the elements fo your drone, you can follow the **satshakit flight controller pinout**.
 
 satshakit flight controller pinout:
 
-<img src="media/satshakit_flight_controller/satshakit_fc_pin_mapping.png" width="70%">
+<img src="media/satshakit_flight_controller/satshakit_fc_pin_mapping.PNG" width="70%">
 
 satshakit flight controller pinout with power power board embedded:
 
-<img src="media/satshakit_flight_controller_power/satshakit_fc_power_pin_mapping.png" width="70%">
+<img src="media/satshakit_flight_controller_power/satshakit_fc_power_pin_mapping.PNG" width="70%">
 
 Downloads
 --
@@ -64,10 +64,10 @@ Media
 
 soldered and installed satshakit flight controller:
 
-<img src="media/readme/satshakit_fc_power_1.jpg" width="70%">
-<img src="media/readme/satshakit_fc_power_2.jpg" width="70%">
-<img src="media/readme/satshakit_fc_power_3.jpg" width="70%">
-<img src="media/readme/satshakit_fc_power_drone.jpg" width="70%">
+<img src="media/readme/satshakit_fc_power_1.jpeg" width="70%">
+<img src="media/readme/satshakit_fc_power_2.jpeg" width="70%">
+<img src="media/readme/satshakit_fc_power_3.jpeg" width="70%">
+<img src="media/readme/satshakit_fc_power_drone.jpeg" width="70%">
 
 videos:
 
