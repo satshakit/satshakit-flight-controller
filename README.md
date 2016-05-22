@@ -53,23 +53,20 @@ Downloads
 
 **downloads (right click, download as)**
 
-
--[satshakit flight controller sch](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller/satshakit_fc.sch)
--[satshakit flight controller brd](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller/satshakit_fc.brd)
--[satshakit flight controller svg](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc.svg)
--[satshakit flight controller internal](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_internal.png)
--[satshakit flight controller holes](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_holes.png)
--[satshakit flight controller cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_cut.png)
--[satshakit flight controller cut tip](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_cut_tip.png)
-
--[satshakit flight controller with power board sch](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller_power/satshakit_fc_power.sch)
--[satshakit flight controller with power board brd](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller_power/satshakit_fc_power.brd)
-
--[satshakit flight controller with power board svg](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power.svg)
--[satshakit flight controller holes](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_internal.png)
--[satshakit flight controller with power board internal](https://github.com/satshakit/satshakit-flight-controller/blob/master/media/satshakit_flight_controller_power/satshakit_fc_power_holes.png)
--[satshakit flight controller with power board cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_cut.png)
--[satshakit flight controller with power board cut tip](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_cut_tip.png)
+- [satshakit flight controller sch](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller/satshakit_fc.sch)
+- [satshakit flight controller brd](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller/satshakit_fc.brd)
+- [satshakit flight controller svg](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc.svg)
+- [satshakit flight controller internal](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_internal.png)
+- [satshakit flight controller holes](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_holes.png)
+- [satshakit flight controller cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_cut.png)
+- [satshakit flight controller cut tip](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_cut_tip.png)
+- [satshakit flight controller with power board sch](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller_power/satshakit_fc_power.sch)
+- [satshakit flight controller with power board brd](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller_power/satshakit_fc_power.brd)
+- [satshakit flight controller with power board svg](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power.svg)
+- [satshakit flight controller holes](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_internal.png)
+- [satshakit flight controller with power board internal](https://github.com/satshakit/satshakit-flight-controller/blob/master/media/satshakit_flight_controller_power/satshakit_fc_power_holes.png)
+- [satshakit flight controller with power board cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_cut.png)
+- [satshakit flight controller with power board cut tip](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_cut_tip.png)
 
 Media
 --
@@ -81,15 +78,19 @@ soldered and installed satshakit flight controller:
 <img src="media/readme/satshakit_fc_power_3.jpeg" width="70%">
 <img src="media/readme/satshakit_fc_power_drone.jpeg" width="70%">
 
-videos:
+uploading Arduino bootloader:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8BaBp0zfSmk
 " target="_blank"><img src="http://img.youtube.com/vi/8BaBp0zfSmk/0.jpg" 
 alt="http://img.youtube.com/vi/8BaBp0zfSmk/0.jpg" width="240" height="180" border="10" /></a>
 
+uploading Multiwii:
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=ZrNh0s9pX4o
 " target="_blank"><img src="http://img.youtube.com/vi/ZrNh0s9pX4o/0.jpg" 
 alt="http://img.youtube.com/vi/ZrNh0s9pX4o/0.jpg" width="240" height="180" border="10" /></a>
+
+Multiwii test:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WtUbjrxpeHY
 " target="_blank"><img src="http://img.youtube.com/vi/WtUbjrxpeHY/0.jpg" 
