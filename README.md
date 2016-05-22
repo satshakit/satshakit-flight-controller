@@ -63,8 +63,8 @@ Downloads
 - [satshakit flight controller with power board sch](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller_power/satshakit_fc_power.sch)
 - [satshakit flight controller with power board brd](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller_power/satshakit_fc_power.brd)
 - [satshakit flight controller with power board svg](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power.svg)
-- [satshakit flight controller holes](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_internal.png)
-- [satshakit flight controller with power board internal](https://github.com/satshakit/satshakit-flight-controller/blob/master/media/satshakit_flight_controller_power/satshakit_fc_power_holes.png)
+- [satshakit flight controller with power board internal](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_internal.png)
+- [satshakit flight controller with power board holes](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_holes.png)
 - [satshakit flight controller with power board cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_cut.png)
 - [satshakit flight controller with power board cut tip](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_cut_tip.png)
 
