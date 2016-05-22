@@ -73,6 +73,7 @@ Media
 
 soldered and installed satshakit flight controller:
 
+<img src="media/readme/satshakit_fc_power_0.jpeg" width="70%">
 <img src="media/readme/satshakit_fc_power_1.jpeg" width="70%">
 <img src="media/readme/satshakit_fc_power_2.jpeg" width="70%">
 <img src="media/readme/satshakit_fc_power_3.jpeg" width="70%">
