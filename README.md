@@ -7,7 +7,7 @@
 
 satshakit flight controller
 --
-satshakit flight controller is an **open source, MultiWii compatible, flight controller board**, that is possibile to **make in a FabLab**. The design derives from both a **satshakit board** and my dual processor flight controller from my **[FabAcademy2015 final project](http://fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html)**.
+satshakit flight controller is an **open source, MultiWii compatible, flight controller board**, that is possibile to **make in a FabLab**. The design derives from both a **satshakit board** and my dual processor flight controller of my **[FabAcademy2015 final project](http://fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html)**.
 
 Features
 --
@@ -22,7 +22,7 @@ satshakit flight controller has been designed aiming to be **easy to make, progr
 - embedded **power board** (if needed)
 - possibility connect and use **any IMU working at 5V**
 
-You can use satshakit flight controller in completely **DIY drones** or, as the dimensions are the same or less of most of the MultiWii commercial flight controller boards (50x50mmm), as a **replacement flight controller for commercial drones**. For drones up to 4 motors and 15A ESCs, is possible to use the **embedded power board**, otherwise is recommended to use an external power board, and to make the satshakit flight controller without the power board embedded.
+You can use satshakit flight controller in **DIY drones** or, due the dimensions are the same or less of most of the MultiWii commercial flight controller boards (50x50mmm), as a **replacement flight controller for commercial drones**. For drones up to 4 motors and 15A ESCs, is possible to use the **embedded power board**, otherwise is recommended to use an external power board, and to make the satshakit flight controller without the power board embedded.
 
 Getting started
 --
@@ -38,15 +38,13 @@ Once everything is connected, follow these steps to upload Arduino bootloader:
 3. select Arduino UNO as board
 4. click on tools->Burn Bootloader
 
-Now you can use again the same connections, Arduino as ISP and Arduino IDE  to upload your favourite MultiWii version, this time using **File->Upload using a programmer**.
+Now you can use again the same connections, Arduino as ISP and Arduino IDE  to **upload your favourite MultiWii** version, this time using **File->Upload using a programmer**.
 
-To connect all the elements fo your drone, you can follow the **satshakit flight controller pinout**.
-
-satshakit flight controller pinout:
+To connect all the elements fo your drone, you can follow the **satshakit flight controller pinout**:
 
 <img src="media/satshakit_flight_controller/satshakit_fc_pin_mapping.PNG" width="70%">
 
-satshakit flight controller pinout with power power board embedded:
+satshakit flight controller pinout with **embedded power power board:**
 
 <img src="media/satshakit_flight_controller_power/satshakit_fc_power_pin_mapping.PNG" width="70%">
 
@@ -55,9 +53,23 @@ Downloads
 
 **downloads (right click, download as)**
 
-- [satshakit cnc svg](https://raw.githubusercontent.com/satshas/satshakit/master/media/satshakit_cnc/satshakit_cnc.svg)
--
--
+
+-[satshakit flight controller sch](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller/satshakit_fc.sch)
+-[satshakit flight controller brd](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller/satshakit_fc.brd)
+-[satshakit flight controller svg](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc.svg)
+-[satshakit flight controller internal](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_internal.png)
+-[satshakit flight controller holes](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_holes.png)
+-[satshakit flight controller cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_cut.png)
+-[satshakit flight controller cut tip](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller/satshakit_fc_cut_tip.png)
+
+-[satshakit flight controller with power board sch](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller_power/satshakit_fc_power.sch)
+-[satshakit flight controller with power board brd](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/eagle_projects/satshakit_flight_controller_power/satshakit_fc_power.brd)
+
+-[satshakit flight controller with power board svg](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power.svg)
+-[satshakit flight controller holes](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_internal.png)
+-[satshakit flight controller with power board internal](https://github.com/satshakit/satshakit-flight-controller/blob/master/media/satshakit_flight_controller_power/satshakit_fc_power_holes.png)
+-[satshakit flight controller with power board cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_cut.png)
+-[satshakit flight controller with power board cut tip](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_cut_tip.png)
 
 Media
 --
@@ -71,17 +83,24 @@ soldered and installed satshakit flight controller:
 
 videos:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=38LhM9Qynuc
-" target="_blank"><img src="http://img.youtube.com/vi/38LhM9Qynuc/0.jpg" 
-alt="http://img.youtube.com/vi/38LhM9Qynuc/0.jpg" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=8BaBp0zfSmk
+" target="_blank"><img src="http://img.youtube.com/vi/8BaBp0zfSmk/0.jpg" 
+alt="http://img.youtube.com/vi/8BaBp0zfSmk/0.jpg" width="240" height="180" border="10" /></a>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZrNh0s9pX4o
+" target="_blank"><img src="http://img.youtube.com/vi/ZrNh0s9pX4o/0.jpg" 
+alt="http://img.youtube.com/vi/ZrNh0s9pX4o/0.jpg" width="240" height="180" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WtUbjrxpeHY
+" target="_blank"><img src="http://img.youtube.com/vi/WtUbjrxpeHY/0.jpg" 
+alt="http://img.youtube.com/vi/WtUbjrxpeHY/0.jpg" width="240" height="180" border="10" /></a>
 
 What's in the repo
 --
 
-- **[docs](https://github.com/satshas/satshakit/tree/master/docs)**: BOM files for Farnell
-- **[egle projects](https://github.com/satshas/satshakit/tree/master/eagle_projects)**: eagle projects of the satshakit flight controller
-- **[media](https://github.com/satshas/satshakit/tree/master/media)**: svgs, connections schemas, images for cnc milling machine, other images
+- **[docs](https://github.com/satshakit/satshakit-flight-controller/tree/master/docs)**: BOM files for Farnell
+- **[egle projects](https://github.com/satshakit/satshakit-flight-controller/tree/master/eagle_projects)**: eagle projects of the satshakit flight controller
+- **[media](https://github.com/satshakit/satshakit-flight-controller/tree/master/media)**: svgs, connections schemas, images for cnc milling machine, other images
 
 Authors
 --
