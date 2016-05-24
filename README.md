@@ -18,7 +18,7 @@ satshakit flight controller has been designed aiming to be **easy to make, progr
 - support for up to **6 channels** receivers 
 - costs about **8€**
 - **16mhz crystal** for precise clock, reliability and compatibility
-- size of **48x48mmm**
+- size of **48x48mmm** to fit the size of commercial available boards
 - embedded **power board** (if needed)
 - possibility to connect and use **any IMU working at 5V**
 
