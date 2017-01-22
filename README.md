@@ -67,8 +67,6 @@ Downloads
 - [satshakit flight controller with power board holes](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_holes.png)
 - [satshakit flight controller with power board cut](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_cut.png)
 - [satshakit flight controller with power board cut tip](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/media/satshakit_flight_controller_power/satshakit_fc_power_cut_tip.png)
-
-
 - [satshakit flight controller BOM xlsx](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/docs/satshakit_fc_BOM.xlsx)
 - [satshakit flight controller BOM ods](https://raw.githubusercontent.com/satshakit/satshakit-flight-controller/master/docs/satshakit_fc_BOM.ods)
 
