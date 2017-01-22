@@ -9,6 +9,8 @@ satshakit flight controller
 --
 satshakit flight controller is an **open source, MultiWii compatible, flight controller board**, that is possibile to **make in a FabLab**. The design derives from both a **satshakit board** and dual processor flight controller of my **[FabAcademy2015 final project](http://fabacademy.org/archives/2015/eu/students/ingrassia.daniele/index.html)**.
 
+Here you can find all of the satshakit boards: **[satshakit organization](https://github.com/satshakit)**.
+
 Features
 --
 
